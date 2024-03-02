@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nestedScrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/logo_background2"
+    app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tipu Mensajen:"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:color="@color/black"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal">
+
+        <RadioGroup
+            android:id="@+id/radioGroupType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/radioButtonOption1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Link/Channel Error" />
+
+            <RadioButton
+                android:id="@+id/radioButtonOption2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sujestaun ruma" />
+
+            <RadioButton
+                android:id="@+id/radioButtonOption3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mensajen Sira Seluk" />
+        </RadioGroup>
+
+
+    </LinearLayout>
+
+
+
+    <EditText
+        android:id="@+id/editTextFeedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft = "10dp"
+        android:layout_marginRight = "10dp"
+        android:layout_marginTop = "40dp"
+        android:hint="Input Mensajen"
+        android:inputType="textMultiLine"
+        android:minLines="3"
+        android:gravity="top"
+        android:padding="16dp"
+        android:background="@drawable/kotak_edittext"/>
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manda"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
+

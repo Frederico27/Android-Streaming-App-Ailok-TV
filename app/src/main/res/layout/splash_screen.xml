@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/splash_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background = "@drawable/logo_background2">
+
+    <TextView
+        android:id="@+id/titulu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="70dp"
+        android:text="LORI TELEVIZAUN BESIK ITA"
+        android:textColor = "@color/black"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        />
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_marginTop="70dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ailoktv1" />
+
+    <ProgressBar
+        android:id="@+id/loading_splash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="90dp"
+        android:theme="@style/progressBarBlue"
+        android:layout_below="@id/logo"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/ver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="Versaun 1.0"
+        android:textSize="15sp" />
+
+
+</LinearLayout>

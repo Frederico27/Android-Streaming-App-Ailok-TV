@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/drawable/ic_baseline_fullscreen_24.xml" value="0.165" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.15" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/drawable/ic_baseline_settings_overscan_24.xml" value="0.1535" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/drawable/ic_baseline_speed_24.xml" value="0.1535" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/drawable/ic_baseline_vertical_split_24.xml" value="0.15" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/drawable/kotak_edittext.xml" value="0.149" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/drawable/settings.xml" value="0.165" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/activity_categories.xml" value="0.25" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/activity_category_details.xml" value="0.33" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/activity_details.xml" value="0.16" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/big_slider_view.xml" value="0.2" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/border_outline.xml" value="0.10625" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/category_view.xml" value="0.25" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/custom_player_control.xml" value="0.2" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/custom_player_control2.xml" value="0.2" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/details_view.xml" value="0.2277992277992278" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/dialog_resolutions.xml" value="0.2" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/feedback.xml" value="0.33" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/home_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/internet_laiha.xml" value="0.33" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/nav_header.xml" value="0.1390625" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/new_cat_view.xml" value="0.1390625" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/shimmer_home.xml" value="0.2" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/shimmer_layout.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/shimmer_layout_cat.xml" value="0.17" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/track_selection_dialog.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/yt_categories.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/layout/yt_webview.xml" value="0.16" />
+        <entry key="..\:/Users/Frederico/AndroidStudioProjects/AilokTV/app/src/main/res/menu/nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

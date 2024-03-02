@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AilokTV</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+    <string name="track_selection_title">Kualidade Video</string>
+</resources>

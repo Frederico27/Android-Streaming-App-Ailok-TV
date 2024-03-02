@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hili Resolusaun Video"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <RadioGroup
+        android:id="@+id/resolution_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="16dp">
+
+        <RadioButton
+            android:id="@+id/resolution_240p"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="240p"/>
+
+        <RadioButton
+            android:id="@+id/resolution_360p"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="360p"/>
+
+        <RadioButton
+            android:id="@+id/resolution_480p"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="480p"/>
+
+        <RadioButton
+            android:id="@+id/resolution_720p"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="720p"/>
+
+        <RadioButton
+            android:id="@+id/resolution_1080p"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1080p"/>
+
+    </RadioGroup>
+
+</LinearLayout>
