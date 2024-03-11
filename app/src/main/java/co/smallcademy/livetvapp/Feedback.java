@@ -43,7 +43,7 @@ public class Feedback extends AppCompatActivity {
                     RadioButton selectedRadioButton = findViewById(selectedRadioButtonId);
                     String selectedValue = selectedRadioButton.getText().toString();
                     // Mengirim pesan ke bot Telegram
-                    String token = "6251739532:AAEMQYixvojj2PJnuFD338TkIt5lqMvVXXE";
+                    String token = "API_KEY
                     String chatId = "@ailoktv";
                     new SendMessageTask().execute(token, chatId, message, selectedValue);
                     Toast.makeText(Feedback.this, "Susessu manda Ita-bo'ot nia mensajen", Toast.LENGTH_SHORT).show();
